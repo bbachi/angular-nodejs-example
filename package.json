@@ -1,0 +1,23 @@
+{
+  "name": "angular-nodejs-example",
+  "version": "1.0.0",
+  "description": "node server",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bbachi/angular-nodejs-example.git"
+  },
+  "author": "Bhargav Bachina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bbachi/angular-nodejs-example/issues"
+  },
+  "homepage": "https://github.com/bbachi/angular-nodejs-example#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
