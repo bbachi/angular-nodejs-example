@@ -470,7 +470,13 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
     var _users_component__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(
     /*! ./users.component */
-    "./src/app/users.component.ts");
+    "./src/app/users.component.ts"); // state related imports
+    // import { StoreModule } from '@ngrx/store';
+    // import { StoreDevtoolsModule } from '@ngrx/store-devtools';
+    // import { reducers, metaReducers } from './app-state/reducers';
+    // import { CustomRouterStateSerializer } from './app-state/shared/utils';
+    // import { StoreRouterConnectingModule, RouterStateSerializer } from '@ngrx/router-store';
+
 
     var AppModule = function AppModule() {
       _classCallCheck(this, AppModule);
