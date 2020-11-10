@@ -4,7 +4,7 @@
   "description": "node server",
   "main": "index.js",
   "scripts": {
-    "start": "node server.bundle.js",
+    "start": "node server.js",
     "build": "webpack",
     "dev": "nodemon ./server.js localhost 3080",
     "test": "echo \"Error: no test specified\" && exit 1"
